@@ -10,8 +10,14 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "@mapbox/node-pre-gyp": "^1.0.11",
+    "@tensorflow/tfjs-node": "^3.1.0",
     "cors": "^2.8.5",
+    "danfojs-node": "^1.1.2",
     "dotenv": "^16.3.1",
-    "express": "^4.18.2"
-  }
+    "express": "^4.18.2",
+    "moment": "^2.29.4",
+    "node-pre-gyp": "^0.14.0"
+  },
+  "type": "module"
 }
